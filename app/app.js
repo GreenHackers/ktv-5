@@ -5,4 +5,6 @@ http://viralpatel.net/blogs/angularjs-routing-and-views-tutorial-with-example/
  http://ruseller.com/lessons.php?rub=43&id=2303
  http://habrahabr.ru/post/269827/
  http://stepansuvorov.com/blog/2014/08/%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-angularjs-right-way/
+ https://www.youtube.com/watch?v=lvGAgul5QT4
+ http://www.videogular.com/tutorials/how-to-start/
  */

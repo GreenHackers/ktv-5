@@ -1,0 +1,34 @@
+{
+  "name": "ktv",
+  "homepage": "https://github.com/rlstudiocom/ktv",
+  "authors": [
+    "Artiom Mitrofanov (mart@rlstudio.com)"
+  ],
+  "description": "Kartina TV Webplayer",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-aria": "~1.4.8",
+    "hammerjs": "~2.0.6",
+    "videogular": "~1.4.0",
+    "videogular-controls": "~1.4.0",
+    "videogular-buffering": "~1.4.0",
+    "videogular-overlay-play": "~1.4.0",
+    "videogular-dash": "~1.4.0",
+    "videogular-themes-default": "~1.4.0",
+    "angular-sanitize": "~1.4.8",
+    "pure": "purecss#~0.6.0",
+    "angular-animate": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "angular-cookies": "~1.4.8"
+  }
+}
